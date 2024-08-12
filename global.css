@@ -259,7 +259,7 @@ input:checked+.slider:before {
 }
 
 #me {
-	background-image: url(/IMG_1084.JPG);
+	background-image: url(./IMG_1084.JPG);
 	background-color: var(--tertiary_color);
     /* border: 0.2rem solid; */
 	height: 20rem;
